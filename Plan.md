@@ -37,4 +37,3 @@ with st.expander("🌟 Plans Extérieurs"):
 - Mal : Abysses, Baator…  
 - Neutre : Mécanus, Outreterre…
 """)
-streamlit
